@@ -120,7 +120,7 @@ def main():
         translated_string = dictionary_list(a_single_element, dictionary)
         array_string.append(translated_string)
 
-    print("{0} in hex is {1}".format(translated_string, array_string))
+    print("{0} in hex is {1}".format(dictionary_string, array_string))
 
 
 if __name__ == "__main__":
